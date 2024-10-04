@@ -1,0 +1,11 @@
+﻿  Actor.cpp
+C:\Users\aleja\OneDrive\Escritorio\Graficas 3D\Graficas 3D\Graficas 3D\GalvanEngine\include\Prerequisites.h(11,10): fatal  error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  BaseApp.cpp
+C:\Users\aleja\OneDrive\Escritorio\Graficas 3D\Graficas 3D\Graficas 3D\GalvanEngine\include\Prerequisites.h(11,10): fatal  error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  GalvanEngine.cpp
+C:\Users\aleja\OneDrive\Escritorio\Graficas 3D\Graficas 3D\Graficas 3D\GalvanEngine\include\Prerequisites.h(11,10): fatal  error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  ShapeFactory.cpp
+C:\Users\aleja\OneDrive\Escritorio\Graficas 3D\Graficas 3D\Graficas 3D\GalvanEngine\include\Prerequisites.h(11,10): fatal  error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Window.cpp
+C:\Users\aleja\OneDrive\Escritorio\Graficas 3D\Graficas 3D\Graficas 3D\GalvanEngine\include\Prerequisites.h(11,10): fatal  error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Generando código...
